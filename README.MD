@@ -1,8 +1,8 @@
 Basic exploration environment to engage with the Retail Rocket Kaggle dataset. Based on Jupyter, Spark, Postgres and Docker.
 
 ### Dependencies
-Docker
-docker-compose
+- Docker
+- docker-compose
 
 ### Usage:
 
