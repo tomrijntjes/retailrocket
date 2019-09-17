@@ -1,4 +1,6 @@
 .DS_Store
-
+notes.txt
+*.pyc
+jupyter/notebooks/top_five_visitors.csv
 postgres/dataset/*
 !postgres/dataset/.gitkeep
